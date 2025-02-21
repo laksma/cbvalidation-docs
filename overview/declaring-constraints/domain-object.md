@@ -27,7 +27,7 @@ component persistent="true"{
 
 We can then create the validation rules for the properties it will apply to it:
 
-{% code title="config/User.cfc" %}
+{% code title="models/User.cfc" %}
 ```javascript
 component persistent="true"{
 
